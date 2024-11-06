@@ -1,0 +1,19 @@
+{
+  "Location": "Arena2036",
+  "User": "arena2036",
+  "Pw": "VWS4LSInfr4structure",
+  "Produkt1": "Product_Type_0_5mm^2",
+  "AAS_Produkt1": "https://www.arena2036.de//aas/8074_8002_2042_7117",
+  "Produktpicture1": "\\picture\\Contact.png",
+  "Produkt2": "Product_Type_35mm^2",
+  "AAS_Produkt2": "https://www.arena2036.de/aas/1484_7002_2042_2325",
+  "Produktpicture2": "\\picture\\LeitungCoroflex.png",
+  "Produkt3": "Product_Type_50mm^2",
+  "AAS_Produkt3": "https://www.arena2036.de/aas/5003_8002_2042_8242",
+  "Produktpicture3": "\\picture\\produkt3.png",
+  "Maschine1": "Maschine#1",
+  "Maschinepicture1": "\\picture\\WEZAG.png",
+  "Maschine2": "Maschine#1",
+  "Maschinepicture2": "\\picture\\KOMAX.png",
+  "Tool1": "Tool#1"
+}
